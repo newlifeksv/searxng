@@ -4,4 +4,5 @@ PyYAML
 jinja2
 flask
 pyyaml
+flask
 # other dependencies...
