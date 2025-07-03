@@ -1,0 +1,7 @@
+[global]
+requests = 30
+seconds = 60
+
+[per_ip]
+requests = 10
+seconds = 60
