@@ -1,3 +1,5 @@
 
-searxng
+git+https://github.com/searxng/searxng.git@master#egg=searxng
+gunicorn
+
 uwsgi
