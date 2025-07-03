@@ -1,5 +1,2 @@
-pyyaml
-setuptools<70  # prevents known bugs with build system (as of July 2025)
-wheel
 gunicorn
 git+https://github.com/searxng/searxng.git@master#egg=searxng
