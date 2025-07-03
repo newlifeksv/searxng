@@ -3,4 +3,5 @@ git+https://github.com/searxng/searxng.git
 PyYAML
 jinja2
 flask
+pyyaml
 # other dependencies...
